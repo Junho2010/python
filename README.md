@@ -1,2 +1,2 @@
-# python-
+# python
 python小程序
